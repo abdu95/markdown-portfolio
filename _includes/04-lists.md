@@ -6,5 +6,5 @@ Books:
 Cafes:
 * Ground zero
 * Zohid kebab
-  * kebab :meat_on_bone:	
+  * kebab :smile:
   * steak
